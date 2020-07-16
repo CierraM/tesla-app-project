@@ -243,7 +243,7 @@ def executeCommand(url, command, *params):
                 print_command_status(command)
             else:
                 print("Command Unsuccesful")
-
+                return response
     except Exception as ex:
         print(f'Error: {ex}')
         returnToMain()
