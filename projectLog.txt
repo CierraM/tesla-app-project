@@ -6,7 +6,11 @@ Time spent working:
 7/13: 60 - added function for prompting user, planned how to execute commands, wrote fahr_to_cels()
 7/14: 60 - Started test functions, worked out bugs in execute commands function. Included error handling to pass in parameters correctly for commands that require parameters.
       90 - added back and exit options. Started function for feedback after exiting command
-
+7/15 90 - 
+      90 -
+7/16 60 -
+      60 - went to husband for help debugging. 
+      120 - more debugging, testing, deleting extraneous comments and print statements
 
 Documentation:
 https://requests.readthedocs.io
@@ -15,3 +19,5 @@ https://tesla-api.timdorr.com/
 https://www.geeksforgeeks.org/python-exit-commands-quit-exit-sys-exit-and-os-_exit/
 https://pypi.org/project/tesla-api/
 https://www.tutorialspoint.com/python/python_loop_control.htm#:~:text=The%20continue%20statement%20in%20Python,both%20while%20and%20for%20loops.
+https://www.geeksforgeeks.org/global-keyword-in-python/
+https://dreamix.eu/blog/webothers/timeout-function-in-python-3
